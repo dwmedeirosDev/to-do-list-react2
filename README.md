@@ -1,4 +1,4 @@
-## Desenvolva uma To-Do List com as seguintes funcionalidades:
+## Desenvolva um To-Do List com as seguintes funcionalidades:
 
 **1.** Utilização de Hooks.
 
@@ -10,5 +10,7 @@
 
 **5.** Função para deletar uma tarefa.
 
-## Bônus:
-* Opção para deletar todas as tarefas da lista
+---
+
+### Bônus:
+* Opção para deletar todas as tarefas da lista.
